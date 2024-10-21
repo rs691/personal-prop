@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "homepage": "https://rs691.github.io",
+    "homepage": "https://rs691.github.io/personal-prop",
     "@emailjs/browser": "^4.4.1",
     "@react-spring/parallax": "^9.7.5",
     "@react-spring/web": "^9.7.5",
